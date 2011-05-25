@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1306255585 source:c:\users\rox\documents\projects\snake\resource\resource.rc
+	<windows.h>
+	"Resource.h"
+
+1018180526 c:\users\rox\documents\projects\snake\resource\resource.h
+
+1306316017 source:c:\users\rox\documents\projects\snake\snake.c
+	"Snake.h"
+
+1306318078 c:\users\rox\documents\projects\snake\snake.h
+	"Common.h"
+
+1306315979 c:\users\rox\documents\projects\snake\common.h
+	<windows.h>
+	<commctrl.h>
+	<stdlib.h>
+
+1306316655 source:c:\users\rox\documents\projects\snake\winmain.c
+	"Snake.h"
+	"Resource.h"
+
+1018180526 c:\users\rox\documents\projects\snake\resource.h
+
+1306255585 source:c:\users\rox\documents\projects\snake\resource.rc
+	<windows.h>
+	"Resource.h"
+

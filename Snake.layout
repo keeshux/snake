@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="Common.h" open="1" top="0" tabpos="1">
+		<Cursor position="40" topLine="0" />
+	</File>
+	<File name="Snake.c" open="0" top="0" tabpos="0">
+		<Cursor position="7706" topLine="272" />
+	</File>
+	<File name="Snake.h" open="0" top="0" tabpos="0">
+		<Cursor position="219" topLine="0" />
+	</File>
+	<File name="WinMain.c" open="1" top="1" tabpos="2">
+		<Cursor position="43" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
