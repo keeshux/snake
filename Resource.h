@@ -1,3 +1,8 @@
+//
+// Copyright (C) 2002 Davide De Rosa
+// License: http://www.gnu.org/licenses/gpl.html GPL version 3 or higher
+//
+
 #define IDI_SNAKE						10000
 
 #define IDR_SNAKE						100
