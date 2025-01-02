@@ -1,3 +1,5 @@
-Snake clone for Windows.
+Snake clone for Windows. Written in Win32.
 
-[Binary version](/Snake.zip)
+[Binary version](Snake.zip)
+
+![Screenshot](Screenshot.jpg)
